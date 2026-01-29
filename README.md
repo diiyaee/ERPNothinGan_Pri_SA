@@ -1,13 +1,3 @@
-<h2 align="left">Hola, Soy Diyae</h2>
-
-###
-
-<p align="left">
-Soy un estudiante de segundo de DAM apasionado de los videojuegos y con mucha ambición.
-</p>
-
-###
-
 <h3 align="left">Proyecto</h3>
 
 📌 **Nombre**: Projecte Vehicles  
